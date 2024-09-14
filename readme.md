@@ -4,4 +4,5 @@
 
 1. Просмотрите историю коммитов в своём проекте и выберите три случайных коммита. Просмотрите изменения, которые были в них сделаны.
 
-![](https://github.com/mob25/flask_4s/blob/main/img/1.gpg)
+![](https://github.com/mob25/flask_4s/blob/main/img/1.jpg)
+
